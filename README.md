@@ -1,0 +1,4 @@
+SvnAutomation
+=============
+
+Automation for VisualSVN
