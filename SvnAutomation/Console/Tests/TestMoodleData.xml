@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modules>
+  <module name="E4007">
+    <team name="Team_1">
+      <member name="10045300" />
+      <member name="10093600" />
+      <member name="10055100" />
+      <member name="10055500" />
+      <member name="10144100" />
+      <member name="10068700" />
+      <member name="10057400" />
+      <member name="10123700" />
+      <member name="10075300" />
+      <member name="10153200" />
+      <member name="10026500" />
+      <member name="10072200" />
+    </team>
+    <team name="Team_2">
+      <member name="10010300" />
+      <member name="10099300" />
+      <member name="10123300" />
+      <member name="10149600" />
+      <member name="10049200" />
+      <member name="10075500" />
+      <member name="10063000" />
+      <member name="10217800" />
+      <member name="10078100" />
+      <member name="10072100" />
+      <member name="10028200" />
+    </team>
+    <team name="Team_3">
+      <member name="10052200" />
+      <member name="10123500" />
+      <member name="09097200" />
+      <member name="10080900" />
+      <member name="10137700" />
+      <member name="10140700" />
+      <member name="10117700" />
+      <member name="10155200" />
+      <member name="10085100" />
+      <member name="10011300" />
+      <member name="10014800" />
+      <member name="10166800" />
+      <member name="10106100" />
+      <member name="10092200" />
+      <member name="10118500" />
+      <member name="10162400" />
+      <member name="10075100" />
+      <member name="09152700" />
+      <member name="10023400" />
+      <member name="09092500" />
+    </team>
+    <team name="Team_4">
+      <member name="10106800" />
+      <member name="10060300" />
+      <member name="10046800" />
+      <member name="10131300" />
+      <member name="10028300" />
+      <member name="10113700" />
+      <member name="10143100" />
+    </team>
+    <team name="Team_5">
+      <member name="10167100" />
+      <member name="09049900" />
+      <member name="10015800" />
+      <member name="10087300" />
+      <member name="10220600" />
+      <member name="10013100" />
+      <member name="10030200" />
+      <member name="09097300" />
+      <member name="10011500" />
+      <member name="10072900" />
+      <member name="10049500" />
+    </team>
+    <team name="Team_6">
+      <member name="10041800" />
+      <member name="10093700" />
+      <member name="10048700" />
+      <member name="00701300" />
+      <member name="10082900" />
+      <member name="09109700" />
+      <member name="10078900" />
+      <member name="10125100" />
+      <member name="10007100" />
+      <member name="10042500" />
+      <member name="10152800" />
+      <member name="10104700" />
+      <member name="10095100" />
+      <member name="10057100" />
+      <member name="10032800" />
+      <member name="10094900" />
+      <member name="10150900" />
+    </team>
+  </module>
+  <module name="EI007">
+    <team name="Team_1">
+      <member name="09061300" />
+      <member name="09080700" />
+      <member name="07058200" />
+      <member name="09107600" />
+      <member name="09097000" />
+      <member name="09143400" />
+      <member name="09076800" />
+      <member name="08053000" />
+      <member name="09031200" />
+      <member name="09050100" />
+      <member name="09132800" />
+      <member name="09052900" />
+      <member name="09026300" />
+      <member name="09186000" />
+      <member name="07028700" />
+      <member name="00679933" />
+      <member name="09022000" />
+      <member name="08042200" />
+      <member name="09105300" />
+      <member name="09002800" />
+      <member name="09078800" />
+    </team>
+    <team name="Team_2">
+      <member name="09017200" />
+      <member name="09140000" />
+      <member name="09181700" />
+      <member name="09144900" />
+      <member name="08027300" />
+      <member name="00701300" />
+      <member name="08079100" />
+      <member name="09100300" />
+      <member name="08122100" />
+      <member name="09099500" />
+      <member name="09131500" />
+      <member name="09073000" />
+      <member name="09094200" />
+      <member name="09065600" />
+      <member name="09151400" />
+      <member name="09035400" />
+      <member name="09079100" />
+      <member name="09145800" />
+      <member name="06053000" />
+      <member name="08079000" />
+    </team>
+    <team name="Team_3">
+      <member name="08030300" />
+      <member name="09073900" />
+      <member name="09026100" />
+      <member name="09064500" />
+      <member name="09096900" />
+      <member name="07088600" />
+      <member name="09060300" />
+      <member name="09052000" />
+      <member name="09020900" />
+      <member name="08186000" />
+      <member name="09053500" />
+      <member name="09056600" />
+      <member name="09082800" />
+      <member name="09099600" />
+      <member name="09032000" />
+      <member name="09025500" />
+      <member name="07030200" />
+      <member name="09068400" />
+      <member name="09070500" />
+      <member name="08093200" />
+    </team>
+  </module>
+</modules>
+
